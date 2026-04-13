@@ -1,5 +1,4 @@
 build:
-  app:my-app
-  version:1010
-  profile:dev
-  
+  app: my-app
+  version: 1010
+  profile: dev
