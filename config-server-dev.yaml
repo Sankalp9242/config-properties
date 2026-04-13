@@ -1,0 +1,4 @@
+build:
+  app: my-app-dev
+  version: 2020
+  profile: dev
